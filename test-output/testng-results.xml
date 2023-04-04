@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-04T06:47:40Z" name="Suite" finished-at="2023-04-04T06:50:30Z" duration-ms="169877">
+    <groups>
+    </groups>
+    <test started-at="2023-04-04T06:47:40Z" name="Test" finished-at="2023-04-04T06:50:30Z" duration-ms="169877">
+      <class name="com.qa.bw.pagetest.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.bw.pagetest.LoginPageTest@6722db6e]" started-at="2023-04-04T12:17:41Z" name="setUp" finished-at="2023-04-04T12:17:53Z" duration-ms="12284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.qa.bw.pagetest.LoginPageTest@6722db6e]" started-at="2023-04-04T12:17:53Z" name="loginPageTitleTest" finished-at="2023-04-04T12:17:53Z" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.bw.pagetest.LoginPageTest@6722db6e]" started-at="2023-04-04T12:19:17Z" name="setUp" finished-at="2023-04-04T12:19:27Z" duration-ms="10775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest()[pri:2, instance:com.qa.bw.pagetest.LoginPageTest@6722db6e]" started-at="2023-04-04T12:19:27Z" name="LoginTest" finished-at="2023-04-04T12:19:31Z" duration-ms="3621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+      </class> <!-- com.qa.bw.pagetest.LoginPageTest -->
+      <class name="com.qa.bw.pagetest.SignUpPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.bw.pagetest.SignUpPageTest@4ae33a11]" started-at="2023-04-04T12:18:18Z" name="setUp" finished-at="2023-04-04T12:18:29Z" duration-ms="11266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SignUpTest()[pri:1, instance:com.qa.bw.pagetest.SignUpPageTest@4ae33a11]" started-at="2023-04-04T12:18:29Z" name="SignUpTest" finished-at="2023-04-04T12:18:43Z" duration-ms="13677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+      </class> <!-- com.qa.bw.pagetest.SignUpPageTest -->
+      <class name="com.qa.bw.pagetest.MyAccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.bw.pagetest.MyAccountPageTest@b40bb6e]" started-at="2023-04-04T12:19:03Z" name="setUp" finished-at="2023-04-04T12:19:16Z" duration-ms="13873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="myAccountTitleTest()[pri:1, instance:com.qa.bw.pagetest.MyAccountPageTest@b40bb6e]" started-at="2023-04-04T12:19:16Z" name="myAccountTitleTest" finished-at="2023-04-04T12:19:16Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccountTitleTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.bw.pagetest.MyAccountPageTest@b40bb6e]" started-at="2023-04-04T12:19:58Z" name="setUp" finished-at="2023-04-04T12:20:11Z" duration-ms="12528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="myAccountLogoTest()[pri:2, instance:com.qa.bw.pagetest.MyAccountPageTest@b40bb6e]" started-at="2023-04-04T12:20:11Z" name="myAccountLogoTest" finished-at="2023-04-04T12:20:11Z" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccountLogoTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.bw.pagetest.MyAccountPageTest@b40bb6e]" started-at="2023-04-04T12:20:11Z" name="setUp" finished-at="2023-04-04T12:20:27Z" duration-ms="15649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addAddress_MyAccount_Test()[pri:3, instance:com.qa.bw.pagetest.MyAccountPageTest@b40bb6e]" started-at="2023-04-04T12:20:27Z" name="addAddress_MyAccount_Test" finished-at="2023-04-04T12:20:30Z" duration-ms="3446" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddress_MyAccount_Test -->
+      </class> <!-- com.qa.bw.pagetest.MyAccountPageTest -->
+      <class name="com.qa.bw.pagetest.SearchPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.bw.pagetest.SearchPageTest@18f20260]" started-at="2023-04-04T12:17:54Z" name="setUp" finished-at="2023-04-04T12:18:08Z" duration-ms="14367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchBookTest()[pri:1, instance:com.qa.bw.pagetest.SearchPageTest@18f20260]" started-at="2023-04-04T12:18:08Z" name="searchBookTest" finished-at="2023-04-04T12:18:18Z" duration-ms="9657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBookTest -->
+      </class> <!-- com.qa.bw.pagetest.SearchPageTest -->
+      <class name="com.qa.bw.pagetest.BestSellerPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.bw.pagetest.BestSellerPageTest@7a48e6e2]" started-at="2023-04-04T12:18:43Z" name="setUp" finished-at="2023-04-04T12:19:01Z" duration-ms="18016" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="bestSellerLogoTest()[pri:1, instance:com.qa.bw.pagetest.BestSellerPageTest@7a48e6e2]" started-at="2023-04-04T12:19:01Z" name="bestSellerLogoTest" finished-at="2023-04-04T12:19:02Z" duration-ms="1203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bestSellerLogoTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.bw.pagetest.BestSellerPageTest@7a48e6e2]" started-at="2023-04-04T12:19:31Z" name="setUp" finished-at="2023-04-04T12:19:47Z" duration-ms="16069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="buyBookTest()[pri:2, instance:com.qa.bw.pagetest.BestSellerPageTest@7a48e6e2]" started-at="2023-04-04T12:19:47Z" name="buyBookTest" finished-at="2023-04-04T12:19:58Z" duration-ms="11248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyBookTest -->
+      </class> <!-- com.qa.bw.pagetest.BestSellerPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
